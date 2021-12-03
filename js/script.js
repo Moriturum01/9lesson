@@ -58,7 +58,7 @@ const salaryAmount = document.querySelector(".salary-amount");
 
 console.log(salaryAmount);
 
-const incomeTitle = document.querySelector(".income-title");
+const incomeTitle = document.querySelector("input.income-title");
 
 console.log(incomeTitle);
 
@@ -70,7 +70,7 @@ const aditionalIncomeItem = document.querySelector(".additional_income-item");
 
 console.log(aditionalIncomeItem);
 
-const expensesTitle = document.querySelector(".expenses-title");
+const expensesTitle = document.querySelector("input.expenses-title");
 
 console.log(expensesTitle);
 
